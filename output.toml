@@ -1,0 +1,257 @@
+
+[[schedule]]
+schedule.id = 10
+schedule.title = "Программирование"
+
+[schedule.teacher]
+id = 243147
+name = "Вербовой Александр Александрович"
+
+[schedule.class_type]
+id = 2
+name = "Лабораторная"
+
+[schedule.class_format]
+id = 0
+name = "Очный"
+
+[schedule.date]
+day = 1
+weeks = [11, 25, 28]
+
+[schedule.time]
+class_number = 1
+from = "08:20"
+to = "09:50"
+
+[schedule.classroom]
+id = 1338
+name = "Ауд. 1338"
+
+[schedule.campus]
+id = 0
+adress = "Кронверкский пр., д.49, лит.А"
+
+[[schedule]]
+schedule.id = 11
+schedule.title = "Программирование"
+
+[schedule.teacher]
+id = 243147
+name = "Вербовой Александр Александрович"
+
+[schedule.class_type]
+id = 2
+name = "Лабораторная"
+
+[schedule.class_format]
+id = 0
+name = "Очный"
+
+[schedule.date]
+day = 1
+weeks = [11, 25, 28]
+
+[schedule.time]
+from = "10:00"
+to = "11:30"
+
+[schedule.classroom]
+id = 1338
+name = "Ауд. 1338"
+
+[schedule.campus]
+id = 0
+adress = "Кронверкский пр., д.49, лит.А"
+
+[[schedule]]
+schedule.id = 12
+schedule.title = "Основы дискретной математики (базовый уровень)"
+
+[schedule.teacher]
+id = 100054
+name = "Поляков Владимир Иванович"
+
+[schedule.class_type]
+id = 0
+name = "Лекция"
+
+[schedule.class_format]
+id = 0
+name = "Очный"
+
+[schedule.date]
+day = 1
+weeks = [11, 18, 25, 28]
+
+[schedule.time]
+from = "11:40"
+to = "13:10"
+
+[schedule.classroom]
+id = 2403
+name = "Ауд. 2403"
+
+[schedule.campus]
+id = 0
+adress = "Кронверкский пр., д.49, лит.А"
+
+[[schedule]]
+schedule.id = 13
+schedule.title = "Основы дискретной математики (базовый уровень)"
+
+[schedule.teacher]
+id = 100054
+name = "Поляков Владимир Иванович"
+
+[schedule.class_type]
+id = 1
+name = "Практика"
+
+[schedule.class_format]
+id = 0
+name = "Очный"
+
+[schedule.date]
+day = 1
+weeks = [11, 18, 25, 28]
+
+[schedule.time]
+from = "13:30"
+to = "15:00"
+
+[schedule.classroom]
+id = 2403
+name = "Ауд. 2403"
+
+[schedule.campus]
+id = 0
+adress = "Кронверкский пр., д.49, лит.А"
+
+[[schedule]]
+schedule.id = 14
+schedule.title = "Основы профессиональной деятельности"
+
+[schedule.teacher]
+id = 311740
+name = "Остапенко Ольга Денисовна"
+
+[schedule.class_type]
+id = 2
+name = "Лабораторная"
+
+[schedule.class_format]
+id = 0
+name = "Очный"
+
+[schedule.date]
+day = 1
+weeks = [18]
+
+[schedule.time]
+from = "08:20"
+to = "09:50"
+
+[schedule.classroom]
+id = 2308
+name = "Ауд. 2308"
+
+[schedule.campus]
+id = 0
+adress = "Кронверкский пр., д.49, лит.А"
+
+[[schedule]]
+schedule.id = 15
+schedule.title = "Основы профессиональной деятельности"
+
+[schedule.teacher]
+id = 311740
+name = "Остапенко Ольга Денисовна"
+
+[schedule.class_type]
+id = 2
+name = "Лабораторная"
+
+[schedule.class_format]
+id = 0
+name = "Очный"
+
+[schedule.date]
+day = 1
+weeks = [18]
+
+[schedule.time]
+from = "10:00"
+to = "11:30"
+
+[schedule.classroom]
+id = 2308
+name = "Ауд. 2308"
+
+[schedule.campus]
+id = 0
+adress = "Кронверкский пр., д.49, лит.А"
+
+[[schedule]]
+schedule.id = 16
+schedule.title = "Реформы и реформаторы в истории России"
+
+[schedule.teacher]
+id = 275327
+name = "Вычеров Дмитрий Александрович"
+
+[schedule.class_type]
+id = 1
+name = "Практика"
+
+[schedule.class_format]
+id = 0
+name = "Очный"
+
+[schedule.date]
+day = 4
+weeks = [14, 28, 31]
+
+[schedule.time]
+from = "13:30"
+to = "15:00"
+
+[schedule.classroom]
+id = 1410
+name = "Ауд. 1410"
+
+[schedule.campus]
+id = 0
+adress = "Кронверкский пр., д.49, лит.А"
+
+[[schedule]]
+schedule.id = 17
+schedule.title = "Реформы и реформаторы в истории России"
+
+[schedule.teacher]
+id = 275327
+name = "Вычеров Дмитрий Александрович"
+
+[schedule.class_type]
+id = 0
+name = "Лекция"
+
+[schedule.class_format]
+id = 0
+name = "Очный"
+
+[schedule.date]
+day = 4
+weeks = [14, 28, 31]
+
+[schedule.time]
+from = "15:20"
+to = "16:50"
+
+[schedule.classroom]
+id = 1229
+name = "Ауд. Orange Classroom (1229)"
+
+[schedule.campus]
+id = 0
+adress = "Кронверкский пр., д.49, лит.А"
